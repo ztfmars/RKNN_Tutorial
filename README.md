@@ -17,21 +17,29 @@ rk3399pro福州瑞芯微电子退出的一款 高性能、低功耗、易于片�
 
 ## 基础入门教程
 [rknn3399pro 2小时入门指南（一）基础概念和基本开发流程](https://blog.csdn.net/weixin_42237113/article/details/107753935)
+
 [rknn3399pro 2小时入门指南（二）RKNN刷机攻略详解](https://blog.csdn.net/weixin_42237113/article/details/107749021)
+
 [rknn3399pro 2小时入门指南（三）在PC上搭建RKNN模拟环境、 模型转换代码、RK3399 pro使用](https://blog.csdn.net/weixin_42237113/article/details/107023216)
+
 [rknn3399pro 2小时入门指南（四）h5模型训练、tflite模型生成](https://blog.csdn.net/weixin_42237113/article/details/107756934)
+
 [rknn3399pro 2小时入门指南（五）tflite转化成rknn](https://blog.csdn.net/weixin_42237113/article/details/107759588)
+
 [rknn3399pro 2小时入门指南（六）rknn模型测试和性能评估](https://blog.csdn.net/weixin_42237113/article/details/107800952)
+
 [rknn3399pro 2小时入门指南（七）rknn视频显示（vpu, rtsp）](https://blog.csdn.net/weixin_42237113/article/details/107802124)
 
 ## 常见设置
 [rknn3399pro如何设置开机启动？](https://blog.csdn.net/weixin_42237113/article/details/109191955)
+
 [rk3399常见便捷设置汇总（免密登录/汉字输入法/时间校正等）](https://blog.csdn.net/weixin_42237113/article/details/110438168)
 
 
 ## 实践项目
 
 - end-to-end YOLOv3 for rknn3399
+
 - end-to-end seft-defined for rknn3399
 
 
