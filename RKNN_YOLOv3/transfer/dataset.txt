@@ -1,0 +1,1 @@
+/media/ztfmars/新加卷/Project/YOLO_v3/yolo3-keras-master/VOCdevkit/VOC2007/JPEGImages/221785.jpg

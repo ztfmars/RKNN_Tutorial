@@ -1,0 +1,4 @@
+phone
+cigar
+person
+hat

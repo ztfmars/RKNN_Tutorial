@@ -30,6 +30,8 @@ rk3399pro福州瑞芯微电子退出的一款 高性能、低功耗、易于片�
 
 [rknn3399pro 2小时入门指南（七）rknn视频显示（vpu, rtsp）](https://blog.csdn.net/weixin_42237113/article/details/107802124)
 
+[rknn3399pro 2小时入门指南（八）详细教程指导你一步到位训练得到yolov3 rknn模型](https://blog.csdn.net/weixin_42237113/article/details/112981516)
+
 ## 常见设置
 [rknn3399pro如何设置开机启动？](https://blog.csdn.net/weixin_42237113/article/details/109191955)
 
