@@ -40,7 +40,7 @@ rk3399pro福州瑞芯微电子退出的一款 高性能、低功耗、易于片�
 
 ## 实践项目
 
-- end-to-end YOLOv3 for rknn3399
+- [end-to-end YOLOv3 for rknn3399 / rknn_yolov3](https://github.com/ztfmars/RKNN_Tutorial/tree/main/RKNN_YOLOv3)
 
 - end-to-end seft-defined for rknn3399
 
