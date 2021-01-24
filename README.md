@@ -39,11 +39,20 @@ rk3399pro福州瑞芯微电子退出的一款 高性能、低功耗、易于片�
 
 
 ## 实践项目
+tips: 
+***end-to-end** -> model define and optimize & model train & differ platform model transfer & land on rknn platform
 
 - [end-to-end YOLOv3 for rknn3399 / rknn_yolov3](https://github.com/ztfmars/RKNN_Tutorial/tree/main/RKNN_YOLOv3)
 
-- end-to-end seft-defined for rknn3399
+- end-to-end seft-defined model for rknn3399 / rknn_pytorch
 
+- end-to-end face_recognition  for rknn3399 / rknn_facenet
+
+- end-to-end pose-recognition of human position  for rknn3399
+
+- caffe/keras/pytorch/tflite/keras to rknn / transfer_model_example 
+
+- tobecontinue
 
 ## References:
 [官方地址]（http://t.rock-chips.com/forum.php）
