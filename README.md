@@ -32,6 +32,8 @@ rk3399pro福州瑞芯微电子退出的一款 高性能、低功耗、易于片�
 
 [rknn3399pro 2小时入门指南（八）详细教程指导你一步到位训练得到yolov3 rknn模型](https://blog.csdn.net/weixin_42237113/article/details/112981516)
 
+[rknn3399pro 2小时入门指南（九）pytorch to rknn模型end-to-end训练和生成](https://blog.csdn.net/weixin_42237113/article/details/113244239)
+
 ## 常见设置
 [rknn3399pro如何设置开机启动？](https://blog.csdn.net/weixin_42237113/article/details/109191955)
 
@@ -44,13 +46,13 @@ tips:
 
 - [end-to-end YOLOv3 for rknn3399 / rknn_yolov3](https://github.com/ztfmars/RKNN_Tutorial/tree/main/RKNN_YOLOv3)
 
-- end-to-end seft-defined model for rknn3399 / rknn_pytorch
+- [end-to-end seft-defined model for rknn3399 / rknn_pytorch](https://github.com/ztfmars/RKNN_Tutorial/tree/main/RKNN_Pytorch)
 
 - end-to-end face_recognition  for rknn3399 / rknn_facenet
 
 - end-to-end pose-recognition of human position  for rknn3399
 
-- caffe/keras/pytorch/tflite/keras to rknn / transfer_model_example 
+- [**caffe/keras/pytorch/tflite/keras** to rknn / transfer_model_example](https://github.com/ztfmars/RKNN_Tutorial/tree/main/Model_Transfer_Example) 
 
 - tobecontinue
 
